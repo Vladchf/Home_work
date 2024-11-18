@@ -4,6 +4,12 @@
 grades = [[5, 3, 3, 5, 4], [2, 2, 2, 3], [4, 5, 5, 2], [4, 4, 3], [5, 5, 5, 4, 5]]
 # print(grades, 'оценки всех учащихся')
 # print(type(grades))
+students = {'Johnny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'}
+#print(students)
+#print(type(students))
+sorted_students = sorted(students)
+print(sorted_students)
+print(type(sorted_students))
 print('_______________')
 
 # print(grades[0], 'Aaron оценки')
@@ -58,9 +64,7 @@ print('_______________')
 
 print('_______________')
 
-#students = {'Johnny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'}
-#print(students)
-#print(type(students))
+
 
 Average_score = {}
 print(Average_score)
