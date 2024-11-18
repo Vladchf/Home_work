@@ -4,7 +4,6 @@
 grades = [[5, 3, 3, 5, 4], [2, 2, 2, 3], [4, 5, 5, 2], [4, 4, 3], [5, 5, 5, 4, 5]] # print(grades, 'оценки всех учащихся') # print(type(grades))
 students = {'Johnny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'} #print(students) #print(type(students))
 sorted_students = sorted(students) # print(sorted_students) # print(type(sorted_students))
-
 A = grades[0] # print(A)
 average_A = sum(A) / len(A) # print(average_A, 'Aaron средний балл')
 B = grades[1]
