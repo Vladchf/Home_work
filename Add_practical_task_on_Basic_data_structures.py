@@ -11,6 +11,10 @@ sorted_students = sorted(students)
 print(sorted_students)
 print(type(sorted_students))
 print('_______________')
+print(sorted_students[0])
+
+
+
 
 # print(grades[0], 'Aaron оценки')
 # print(type(grades[0]))
@@ -68,5 +72,10 @@ print('_______________')
 
 Average_score = {}
 print(Average_score)
-Average_score['Aaron'] = average_A
+Average_score[sorted_students[0]] = average_A
+Average_score[sorted_students[1]] = average_B
+Average_score[sorted_students[2]] = average_J
+Average_score[sorted_students[3]] = average_K
+Average_score[sorted_students[4]] = average_S
 print(Average_score)
+print(type(Average_score))
