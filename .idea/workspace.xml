@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ef7d52-45db-4272-8832-df82d0187781" name="Changes" comment="" />
+    <list default="true" id="90ef7d52-45db-4272-8832-df82d0187781" name="Changes" comment="Третье звдание 2го модуля">
+      <change afterPath="$PROJECT_DIR$/modul_2_4_Цикл_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,25 +28,36 @@
     &quot;accountId&quot;: &quot;0113adad-822c-4ac3-9716-34ff0f4952c8&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2or3GjCQRjo0iPyLDXwgSmZTsav" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Add_practical_task_on_Basic_data_structures.executor": "Run",
+    "Python.a1.executor": "Debug",
+    "Python.main.executor": "Run",
+    "Python.modul_2_1.executor": "Debug",
+    "Python.modul_2_2.executor": "Run",
+    "Python.modul_2_3_Стиль_кода_Цикл_While.executor": "Run",
+    "Python.modul_2_4_Цикл_for.executor": "Run",
+    "Python.module_1_5.executor": "Run",
+    "Python.module_1_6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Home_work" />
@@ -84,6 +98,79 @@
       <option name="presentableId" value="Default" />
       <updated>1731613773348</updated>
     </task>
+    <task id="LOCAL-00001" summary="17 ноября">
+      <option name="closed" value="true" />
+      <created>1731838873594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731838873594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="17 ноября">
+      <option name="closed" value="true" />
+      <created>1731905976698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731905976698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Нашел функцию сортировки">
+      <option name="closed" value="true" />
+      <created>1731917031024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731917031024</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Пред окончательная версия программы">
+      <option name="closed" value="true" />
+      <created>1731952403022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731952403022</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Окончательная версия программы">
+      <option name="closed" value="true" />
+      <created>1731954181490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731954181490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Окончательно окончательная версия программы">
+      <option name="closed" value="true" />
+      <created>1731954300239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731954300239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Первое задание второго модуля сделал">
+      <option name="closed" value="true" />
+      <created>1731956301860</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731956301860</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Второе звдание 2го модуля">
+      <option name="closed" value="true" />
+      <created>1731958998746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731958998746</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Третье звдание 2го модуля">
+      <option name="closed" value="true" />
+      <created>1732813743169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732813743169</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,13 +184,23 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="17 ноября" />
+    <MESSAGE value="Нашел функцию сортировки" />
+    <MESSAGE value="Пред окончательная версия программы" />
+    <MESSAGE value="Окончательная версия программы" />
+    <MESSAGE value="Окончательно окончательная версия программы" />
+    <MESSAGE value="Первое задание второго модуля сделал" />
+    <MESSAGE value="Второе звдание 2го модуля" />
+    <MESSAGE value="Третье звдание 2го модуля" />
+    <option name="LAST_COMMIT_MESSAGE" value="Третье звдание 2го модуля" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/modul_2_1.py</url>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
