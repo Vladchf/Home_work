@@ -9,3 +9,8 @@ while index < len(my_list): #
          continue
     else:
         break
+
+print(my_list)
+print(my_list[2])
+print('my_list')
+print(f'Наша переменная: {my_list}')

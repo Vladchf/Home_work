@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ef7d52-45db-4272-8832-df82d0187781" name="Changes" comment="Третье звдание 2го модуля">
-      <change afterPath="$PROJECT_DIR$/modul_2_4_Цикл_for.py" afterDir="false" />
+    <list default="true" id="90ef7d52-45db-4272-8832-df82d0187781" name="Changes" comment="Четвертое звдание 2го модуля">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_2_3_Стиль_кода_Цикл_While.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_2_3_Стиль_кода_Цикл_While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_2_4_Цикл_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_2_4_Цикл_for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Add_practical_task_on_Basic_data_structures.executor": "Run",
-    "Python.a1.executor": "Debug",
-    "Python.main.executor": "Run",
-    "Python.modul_2_1.executor": "Debug",
-    "Python.modul_2_2.executor": "Run",
-    "Python.modul_2_3_Стиль_кода_Цикл_While.executor": "Run",
-    "Python.modul_2_4_Цикл_for.executor": "Run",
-    "Python.module_1_5.executor": "Run",
-    "Python.module_1_6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Add_practical_task_on_Basic_data_structures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modul_2_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.modul_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modul_2_3_Стиль_кода_Цикл_While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modul_2_4_Цикл_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Home_work" />
@@ -170,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732813743169</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Четвертое звдание 2го модуля">
+      <option name="closed" value="true" />
+      <created>1733409729290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733409729290</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +202,8 @@
     <MESSAGE value="Первое задание второго модуля сделал" />
     <MESSAGE value="Второе звдание 2го модуля" />
     <MESSAGE value="Третье звдание 2го модуля" />
-    <option name="LAST_COMMIT_MESSAGE" value="Третье звдание 2го модуля" />
+    <MESSAGE value="Четвертое звдание 2го модуля" />
+    <option name="LAST_COMMIT_MESSAGE" value="Четвертое звдание 2го модуля" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -201,6 +211,36 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/modul_2_1.py</url>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modul_2_4_Цикл_for.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modul_2_4_Цикл_for.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modul_2_4_Цикл_for.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modul_2_4_Цикл_for.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modul_2_4_Цикл_for.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modul_2_4_Цикл_for.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
